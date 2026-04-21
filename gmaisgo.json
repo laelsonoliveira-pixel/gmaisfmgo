@@ -25,8 +25,8 @@
             },
             {
                 "day": "Segunda",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -37,12 +37,19 @@
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
-            {
+			{
                 "day": "Segunda",
-                "time": "12:00",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Segunda",
                 "title": "Programa Arena Esporte Total",
                 "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://audiencemidia.com.br/json/img/vitor.png"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
             },
             {
                 "day": "Segunda",
@@ -54,6 +61,13 @@
             {
                 "day": "Segunda",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Segunda",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -81,8 +95,8 @@
             },
             {
                 "day": "Terça",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -93,12 +107,19 @@
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
-            {
+			{
                 "day": "Terça",
-                "time": "12:00",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Terça",
                 "title": "Programa Arena Esporte Total",
                 "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://audiencemidia.com.br/json/img/vitor.png"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
             },
             {
                 "day": "Terça",
@@ -110,6 +131,13 @@
             {
                 "day": "Terça",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Terça",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -137,8 +165,8 @@
             },
             {
                 "day": "Quarta",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -149,12 +177,19 @@
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
-            {
+			{
                 "day": "Quarta",
-                "time": "12:00",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Quarta",
                 "title": "Programa Arena Esporte Total",
                 "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://audiencemidia.com.br/json/img/vitor.png"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
             },
             {
                 "day": "Quarta",
@@ -166,6 +201,13 @@
             {
                 "day": "Quarta",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Quarta",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -193,8 +235,8 @@
             },
             {
                 "day": "Quinta",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -205,12 +247,19 @@
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
-            {
+			{
                 "day": "Quinta",
-                "time": "12:00",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
+            {
+				"time": "12:00",
+                "day": "Quinta",
                 "title": "Programa Arena Esporte Total",
                 "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://audiencemidia.com.br/json/img/vitor.png"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
             },
             {
                 "day": "Quinta",
@@ -222,6 +271,13 @@
             {
                 "day": "Quinta",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Quinta",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -249,8 +305,8 @@
             },
             {
                 "day": "Sexta",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -261,12 +317,19 @@
                 "host": "Helineia Martins",
                 "image": "https://audiencemidia.com.br/json/img/helineia.png"
             },
+			{
+                "day": "Sexta",
+                "time": "11:00",
+                "title": "JORNAL DA G+ FM 107,5",
+                "host": "Helineia Martins & Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfm/refs/heads/main/jornal.png"
+            },
             {
                 "day": "Sexta",
                 "time": "12:00",
                 "title": "Programa Arena Esporte Total",
                 "host": "Fláviano Rato e Vitor Prado",
-                "image": "https://audiencemidia.com.br/json/img/vitor.png"
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/esporte.png"
             },
             {
                 "day": "Sexta",
@@ -278,6 +341,13 @@
             {
                 "day": "Sexta",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Sexta",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -305,8 +375,8 @@
             },
             {
                 "day": "Sábado",
-                "time": "05:00",
-                "title": "Programação Automática",
+                "time": "06:00",
+                "title": "Alvorada Sertaneja",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -334,6 +404,13 @@
             {
                 "day": "Sábado",
                 "time": "15:00",
+                "title": "Classic Hits",
+                "host": "Maria Clara",
+                "image": "https://raw.githubusercontent.com/laelsonoliveira-pixel/gmaisfmgo/refs/heads/main/maria_clara.jpeg"
+            },
+			{
+                "day": "Sábado",
+                "time": "16:00",
                 "title": "Programa Rodeio",
                 "host": "Elcimar Batista",
                 "image": "https://audiencemidia.com.br/json/img/elcimar.png"
@@ -348,7 +425,7 @@
             {
                 "day": "Sábado",
                 "time": "22:00",
-                "title": "Programação G+ FM 107,5",
+                "title": "Programa Na Balada Gmais",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             },
@@ -369,7 +446,7 @@
             {
                 "day": "Domingo",
                 "time": "08:00",
-                "title": "PProgramação G+ FM 107,5",
+                "title": "Programação G+ FM 107,5",
                 "host": "Automático",
                 "image": "https://audiencemidia.com.br/json/img/logo.jpeg"
             
